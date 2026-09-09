@@ -46,9 +46,21 @@
 .operator-btn {
   background-color: #f48a05;
 }
+.operator-btn:hover {
+  background-color: #fec400;
+  transition: background-color 0.5s ease;
+}
 .function-btn {
   background-color: #5e5e5e;
 }
+.function-btn:hover {
+  background-color: #9e9e9e;
+  transition: background-color 0.5s ease;
+}
 .number-btn {
   background-color: #333333;
+}
+.number-btn:hover {
+  background-color: #707070;
+  transition: background-color 0.5s ease;
 }
